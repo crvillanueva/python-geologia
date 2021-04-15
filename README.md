@@ -1,6 +1,6 @@
 # python-geologia
 
-En este repositorio se realiza un compilado de librerías, utilidades y cursos de Python con un enfoque en la geología.
+En este repositorio se realiza un compilado de librerías open-source, utilidades y cursos de Python gratuitos con un enfoque en la geología.
 
 ## Contenidos
 
@@ -21,12 +21,12 @@ En este repositorio se realiza un compilado de librerías, utilidades y cursos d
   * [Modelamiento geológico](#modelamiento)
     * [gempy](#gempy)
     * [flopy](#flopy)
-
-\* El titulo de cada librería lleva a la página oficial correspondiente.
-
 * [Cursos y tutoriales](#cursos)
+* [Libros, blogs y canales de Youtube](#materiales)
+* [Utilidades](#utilidades)
 
 ## <a id="lib">Librerías</a>
+\* El titulo de cada librería lleva a la página oficial correspondiente.
 
 ### <a id="carga">Carga y manipulación de datos</a>
 
@@ -113,12 +113,19 @@ Gempy permite la modelación 3D de estructuras geologicas complejas (capas, plie
 
 Flopy permite la creación, ejecución y post-proceso de modelos basados en MODFLOW.
 
-## Páginas y materiales <a id="cursos"><a/>
- 
-* [Hatari Labs](https://www.hatarilabs.com/) Página y canal de youtube con blogs y videotutoriales respecto a sistemas de información geográficos, modelamiento y otros, con gran enfoque en la hidrogeologia.
-
-## Cursos <a id="cursos"><a/>
+## Cursos y tutoriales <a id="cursos"><a/>
 
 * [Introducción a Data Analytics en Geociencias con Python (DAP) | Nube minera](https://nubeminera.cl/course/dap/) Curso gratuito e introductorio donde se enseña a realizar un análisis exploratorio de datos provenientes de muestras de sondajes a través de Python.
 
-##
+## Libros, blogs y canales de Youtube<a id="materiales"></a>
+### Libros
+
+![Libros gratuitos generales de Python](https://github.com/pamoroso/free-python-books)
+
+### Blogs y canales de youtube
+* [Hatari Labs](https://www.hatarilabs.com/) Página y canal de youtube con blogs y videotutoriales respecto a sistemas de información geográficos, modelamiento y otros, con gran enfoque en la hidrogeologia.
+
+## Utilidades <a id="utilidades"></a>
+
+* [Diagrama de Piper con Python | Hatari Labs](https://www.hatarilabs.com/ih-en/how-to-make-a-piper-diagram-in-python-tutorial)
+* [Creación de gráficos exportables con Plotly Chart](https://chart-studio.plotly.com/create/)
