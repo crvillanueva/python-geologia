@@ -113,6 +113,12 @@ Gempy permite la modelación 3D de estructuras geologicas complejas (capas, plie
 
 Flopy permite la creación, ejecución y post-proceso de modelos basados en MODFLOW.
 
+## Páginas y materiales <a id="cursos"><a/>
+ 
+* [Hatari Labs](https://www.hatarilabs.com/) Página y canal de youtube con blogs y videotutoriales respecto a sistemas de información geográficos, modelamiento y otros, con gran enfoque en la hidrogeologia.
+
 ## Cursos <a id="cursos"><a/>
+
+* [Introducción a Data Analytics en Geociencias con Python (DAP) | Nube minera](https://nubeminera.cl/course/dap/) Curso gratuito e introductorio donde se enseña a realizar un análisis exploratorio de datos provenientes de muestras de sondajes a través de Python.
 
 ##
