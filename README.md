@@ -29,7 +29,7 @@ Compilado de librerías y utilidades de Python de código abierto principalmente
 ### <a id="carga">Carga y manipulación de datos</a>
 
 #### [Numpy](https://numpy.org/) <a id="numpy"></a>
-<img src="https://numpy.org/images/logos/numpy.svg" alt="numpy logo" height="200"/>
+<img src="https://numpy.org/images/logos/numpy.svg" alt="numpy logo" height="100" align="left"/>
 
 Numpy permite el trabajo con matrices y vectores y es una parte fundamental de numerosas otras librerías dentro del ecosistema de Python.
 
