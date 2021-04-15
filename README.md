@@ -1,4 +1,4 @@
-# python-geologia
+# Python Geología
 
 En este repositorio se realiza un compilado de librerías open-source, utilidades y material de Python gratuito con un enfoque en la geología.
 
