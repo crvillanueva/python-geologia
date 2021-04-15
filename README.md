@@ -7,12 +7,12 @@
     * [numpy](#numpy) 
     * [pandas](#pandas) 
   * [Visualización de datos](#viz)
-   * [Matplotlib](#matplotlib)
-   * [Seaborn](#seaborn)
-   * [Plotly](#plotly)
-   * [Bokeh](#bokeh)
+    * [Matplotlib](#matplotlib)
+    * [Seaborn](#seaborn)
+    * [Plotly](#plotly)
+    * [Bokeh](#bokeh)
   * [Mapas e información geoespacial](#mapas)
-  * [Modelamiento geológico]
+  * [Modelamiento geológico](#modelamiento)
 
 * [Cursos y tutoriales](#lib)
 
@@ -26,6 +26,7 @@ Compilado de librerías y utilidades de Python de código abierto principalmente
 ![numpy logo](https://numpy.org/images/logos/numpy.svg)
 
 #### [pandas](https://pandas.pydata.org/) <a id="pandas"></a> 
+<img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas logo" height="200"/>
 ![pandas logo](https://pandas.pydata.org/static/img/pandas_white.svg)
 Pandas permite la carga, análisis y transformación de información tabular y es una de las herramientas más usadas en el ámbito cienfico en el mundo de Python. Con pandas puedes cargar información en forma de CSV, Excel, JSON, GeoJSON entre muchas otros y con la capacidad de llevar a cabo filtrado, clasificación y ordenamiento de la información.
 
@@ -65,7 +66,8 @@ Diseñada para el procesamiento de información geoespacial, la creación de map
 #### [Folium](https://python-visualization.github.io/folium/)<a id="folium"></a>
 Basada en la libería de javascript ```leaflet.js``` para la creación de mapas livianos e interactivos totalmente compatibles con el navegador. Folium posee numerosos mapas base disponibles como OpenStreetMap, Mapbox, and Stamen entre otros y tienen el potencial de crear mapas con series de tiempo e incluso mapas geológicos completos.
 
-### Modelamiento geológico
+### Modelamiento geológico <a id="modelamiento"></a>
+
 #### [gempy](https://www.gempy.org/)<a id="gempy"></a>
 ![Gempy logo](https://static.wixstatic.com/media/819b61_005a11348d95480981d0a188be0801b2~mv2.png/v1/fill/w_199,h_71,al_c,q_85,usm_0.66_1.00_0.01/GemPy_logo_on_transp.webp)
 
