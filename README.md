@@ -1,10 +1,10 @@
 # python-geologia
 
-En este repositorio se realiza un compilado de librerías open-source, utilidades y cursos de Python gratuitos con un enfoque en la geología.
+En este repositorio se realiza un compilado de librerías open-source, utilidades y material de Python gratuito con un enfoque en la geología.
 
 ## Contenidos
 
-* [Librerias](#lib)
+* [Librerías](#lib)
   * [Carga y manipulación de datos](#carga)
     * [NumPy](#numpy) 
     * [pandas](#pandas) 
@@ -16,24 +16,24 @@ En este repositorio se realiza un compilado de librerías open-source, utilidade
   * [Mapas e información geoespacial](#mapas)
     * [geopandas](#geopandas)
     * [cartopy](#cartopy)
-    * [folium](#folium)
-    * [plotly](#plotly)
+    * [Folium](#folium)
+    * [Plotly](#plotly)
   * [Modelamiento geológico](#modelamiento)
-    * [gempy](#gempy)
-    * [flopy](#flopy)
+    * [GemPy](#gempy)
+    * [Flopy](#flopy)
 * [Cursos y tutoriales](#cursos)
 * [Libros, blogs y canales de Youtube](#materiales)
 * [Utilidades](#utilidades)
 
 ## <a id="lib">Librerías</a>
-\* El titulo de cada librería lleva a la página oficial correspondiente.
+\*El titulo de cada librería lleva a la página oficial correspondiente.
 
 ### <a id="carga">Carga y manipulación de datos</a>
 
 #### [NumPy](https://numpy.org/) <a id="numpy"></a>
 
 <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy logo" height="100"/>
-NumPy permite el trabajo con matrices y vectores de manera rápida y eficiente. Es una parte fundamental de numerosas otras librerías dentro del ecosistema de Python, por ejemplo en librerías como pandas.
+NumPy permite el trabajo con matrices y vectores de manera rápida y eficiente. Es una parte fundamental de numerosas otras librerías dentro del ecosistema de Python, por ejemplo, es la base de de la librería pandas.
 <hr>
 
 #### [pandas](https://pandas.pydata.org/) <a id="pandas"></a> 
@@ -56,14 +56,14 @@ Matplotlib permite la creación de visualizaciones estáticas (y también intera
 ##### [Seaborn](https://seaborn.pydata.org/) <a id="seaborn"></a>
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="numpy logo" height="100"/>
 
-Seaborn (basada en Matplotlib) facilita la visualización estadistica mediante gráficos de gran calidad sin la necesidad de extensiva personalización. 
+Seaborn (basada en Matplotlib) facilita la visualización estadística mediante gráficos de gran calidad sin la necesidad de extensiva personalización. 
 
 <hr>
 
 #### [Plotly](https://plotly.com/python/) <a id="plotly"></a>
 <img src="https://plotly.com/all_static/images/plotly_graphing_libraries_1.png" alt="plotly logo" height="100"/>
 
-Plotly es una libreria de gráficos interactivos que se destaca por su extensa variedad de gráficos interactivo (más de 40) y la calidad nativa de sus gráficos.
+Plotly es una libreria de gráficos interactivos que se destaca por su extensa variedad de gráficos (más de 40), la calidad nativa de sus visualizaciones, y la compatibilidad con el navedor.
 
 <hr>
 
@@ -79,7 +79,7 @@ Otra alternativa para la creación de gráficos interactivos en Python.
 #### [geopandas](https://pandas.pydata.org/) <a id="geopandas"></a>
 <img src="https://geopandas.org/_static/geopandas_logo_web.svg" alt="geopandas logo" height="100"/>
 
-Extiende la funcionalidad de pandas para la manipulación de datos geoespaciales. Permite la carga de formatos GIS comunes (shp, geojson, geopackage, etc.) y la reproyección de sistemas de referencia.
+Extiende la funcionalidad de pandas para permitir la manipulación de datos geoespaciales. Permite la carga de formatos GIS comunes (.shp, .geojson, .gpk, entre otros) y el trabajo y reproyección de sistemas de referencia.
 
 <hr>
 
@@ -123,7 +123,7 @@ Flopy permite la creación, ejecución y post-proceso de modelos basados en MODF
 ![Libros gratuitos generales de Python](https://github.com/pamoroso/free-python-books)
 
 ### Blogs y canales de youtube
-* [Hatari Labs](https://www.hatarilabs.com/) Página y canal de youtube con blogs y videotutoriales respecto a sistemas de información geográficos, modelamiento y otros, con gran enfoque en la hidrogeologia.
+* [Hatari Labs](https://www.hatarilabs.com/) Página y canal de youtube con blogs y videotutoriales respecto a SIG, modelamiento y otros. Especial enfoque en la hidrogeologia.
 
 ## Utilidades <a id="utilidades"></a>
 
