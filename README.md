@@ -4,7 +4,7 @@
 
 * [Librerias](#lib)
   * [Carga y manipulación de datos](#carga)
-    * [numpy](#numpy) 
+    * [NumPy](#numpy) 
     * [pandas](#pandas) 
   * [Visualización de datos](#viz)
     * [Matplotlib](#matplotlib)
@@ -20,18 +20,21 @@
     * [gempy](#gempy)
     * [flopy](#flopy)
 
-* [Cursos y tutoriales](#lib)
+* [Cursos y tutoriales](#cursos)
 
 Compilado de librerías y utilidades de Python de código abierto principalmente a la geología.
 
-## <a id="carga">Librerías</a>
+## <a id="lib">Librerías</a>
 
 ### <a id="carga">Carga y manipulación de datos</a>
 
-#### [Numpy](https://numpy.org/) <a id="numpy"></a>
+#### [NumPy](https://numpy.org/) <a id="numpy"></a>
+
+<div style="display: flex">
 <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy logo" height="100"/>
 
-Numpy permite el trabajo con matrices y vectores y es una parte fundamental de numerosas otras librerías dentro del ecosistema de Python.
+NumPy permite el trabajo con matrices y vectores de manera rápida y eficiente. Es una parte fundamental de numerosas otras librerías dentro del ecosistema de Python, por ejemplo en librerías como pandas.
+</div>
 
 #### [pandas](https://pandas.pydata.org/) <a id="pandas"></a> 
 <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas logo" height="100"/>
@@ -94,6 +97,6 @@ Gempy permite la modelación 3D de estructuras geologicas complejas (capas, plie
 
 Flopy permite la creación, ejecución y post-proceso de modelos basados en MODFLOW.
 
-## Cursos
+## Cursos <a id="cursos"><a/>
 
 ##
