@@ -23,10 +23,10 @@ Compilado de librerías y utilidades de Python de código abierto principalmente
 ### <a id="carga">Carga y manipulación de datos</a>
 
 #### [Numpy](https://numpy.org/) <a id="numpy"></a>
-![numpy logo](https://numpy.org/images/logos/numpy.svg)
+<img src="https://numpy.org/images/logos/numpy.svg" alt="numpy logo" height="200"/>
 
 #### [pandas](https://pandas.pydata.org/) <a id="pandas"></a> 
-<img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas logo" height="200" style="margin:auto"/>
+<img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas logo" height="200"/>
 
 Pandas permite la carga, análisis y transformación de información tabular y es una de las herramientas más usadas en el ámbito cienfico en el mundo de Python. Con pandas puedes cargar información en forma de CSV, Excel, JSON, GeoJSON entre muchas otros y con la capacidad de llevar a cabo filtrado, clasificación y ordenamiento de la información.
 
@@ -35,7 +35,7 @@ Pandas permite la carga, análisis y transformación de información tabular y e
 Python posee numerosas librerías para la visualización de datos. Entre algunas de las más populares tenemos
 
 ##### [Matplotlib](https://matplotlib.org/) <a id="matplotlib"></a>
-![Matplotlib logo](https://matplotlib.org/_static/logo2_compressed.svg)
+<img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplolib logo" height="200"/>
 
 Matplotlib permite la creación de visualizaciones estáticas (y también interactivas) de todo tipo con gran capacidad de personalización.
 
