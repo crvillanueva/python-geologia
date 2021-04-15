@@ -26,8 +26,8 @@ Compilado de librerías y utilidades de Python de código abierto principalmente
 ![numpy logo](https://numpy.org/images/logos/numpy.svg)
 
 #### [pandas](https://pandas.pydata.org/) <a id="pandas"></a> 
-<img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas logo" height="200"/>
-![pandas logo](https://pandas.pydata.org/static/img/pandas_white.svg)
+<img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas logo" height="200" style="margin:auto"/>
+
 Pandas permite la carga, análisis y transformación de información tabular y es una de las herramientas más usadas en el ámbito cienfico en el mundo de Python. Con pandas puedes cargar información en forma de CSV, Excel, JSON, GeoJSON entre muchas otros y con la capacidad de llevar a cabo filtrado, clasificación y ordenamiento de la información.
 
 ### <a id="viz">Visualización</a>
