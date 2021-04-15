@@ -4,8 +4,8 @@
 
 * [Librerias](#lib)
   * [Carga y manipulación de datos](#carga)
-   * [numpy](#numpy) 
-   * [pandas](#pandas) 
+    * [numpy](#numpy) 
+    * [pandas](#pandas) 
   * [Visualización de datos](#viz)
    * [Matplotlib](#matplotlib)
    * [Seaborn](#seaborn)
