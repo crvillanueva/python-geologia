@@ -39,18 +39,14 @@ NumPy permite el trabajo con matrices y vectores de manera rápida y eficiente. 
 ### [pandas](https://pandas.pydata.org/) <a id="pandas"></a> 
 <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas logo" height="100"/>
 
-Pandas permite la carga, análisis y transformación de información tabular. Con pandas es posible cargar información en forma de CSV, Excel, JSON, GeoJSON entre muchas otros, la que puede ser posteriormente filtrada, clasificada y/o agregada.
-
-<br>
+Pandas permite la carga, análisis y transformación de información tabular. Con pandas es posible cargar información en forma de CSV, Excel, JSON, GeoJSON entre muchas otros, la que puede ser posteriormente filtrada, clasificada y/o agregada. <br>
 
 ##### Ejemplo de carga de [archivo csv](https://raw.githubusercontent.com/crvillanueva/python-geologia/main/data/terremotos.csv)
 ```python
-
 import pandas as pd 
 
-df = pd.read_csv('https://raw.githubusercontent.com/crvillanueva/python-geologia/main/data/terremotos.csv') # Lectura del archivo
-df.head(3) # Mostrar solo las primeras 3 entradas
-
+datos = pd.read_csv('https://raw.githubusercontent.com/crvillanueva/python-geologia/main/data/terremotos.csv') # Lectura del archivo
+datos.head(3) # Mostrar solo las primeras 3 entradas
 ```
 <table border="1" class="dataframe">
   <thead>
@@ -170,7 +166,25 @@ Python posee numerosas librerías para la visualización de datos. Algunas de la
 
 Matplotlib permite la creación de visualizaciones estáticas (y también interactivas) con una extensa variadad de gráficos disponibles (dispersión, barra, pie, histogramas, entre otros) y con gran capacidad de personalización.
 
-<img src="https://matplotlib.org/stable/_images/sphx_glr_scatter_demo2_001.png" alt="matplotlib ejemplo" height="400"/>
+```python
+import matplolib.pyplot as plt
+
+# Datos x e y
+x_silice = [50.2, 54.3, 60.1, 64.9, 66.2, 71.5]
+y_magnesio = [7.4, 3.7, 2.8, 1.7, 0.9, 0.5]
+
+# Creación del gráfico
+plt.plot(x_silice, y_magnesio, label='MgO', color='orange', linewidth=2)
+
+# Personalizalización
+plt.xlabel('% $SiO_{2}$')
+plt.ylabel('% $MgO$')
+plt.grid(alpha=0.4)
+
+plt.show()
+```
+
+<img src="https://raw.githubusercontent.com/crvillanueva/python-geologia/main/img/matplotlib_ex.svg" alt="matplotlib ejemplo" height="400"/>
 
 <hr>
 
