@@ -49,7 +49,7 @@ df.head()
 
 ```
 
-<iframe src="https://raw.githubusercontent.com/crvillanueva/python-geologia/main/data/table.html" title="pandas df">
+<iframe src="https://raw.githubusercontent.com/crvillanueva/python-geologia/main/data/table.html" title="pandas df"></iframe>
 
 <hr>
 
