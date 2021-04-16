@@ -284,22 +284,7 @@ Basada en la librería de javascript ```leaflet.js``` utilizada en la creación 
 
 Gempy permite la modelación 3D de estructuras geologicas complejas (capas, pliegues, fallas, etc.) pudiendo implementar además modelamiento probabilístico.
 
-
-<img src="https://seaborn.pydata.org/_images/regression_marginals.png" alt="seaborn ejemplo" height="400"/>
-<div style="height:400px">
-<svg width="490" height="449" viewBox="0 0 490 449" ref="svgcomp-kbkkjc2q" key="svgcomp-kbkkjc2q" id="svgcomp-kbkkjc2q" version="1.1" role="img" aria-label="sphx_glr_ch1_7_3d_visualization_003.png"><defs><filter id="mask-comp-kbkkjc2q-svg-bleach"><feColorMatrix type="matrix" values="0 0 0 0 1
-				0 0 0 0 1
-				0 0 0 0 1
-				0 0 0 1 0"></feColorMatrix></filter>
-			<mask id="mask-comp-kbkkjc2q">
-				<use filter="url(#mask-comp-kbkkjc2q-svg-bleach)" id="mask-comp-kbkkjc2q-svg-use" xlink:href="#mask-comp-kbkkjc2q-svg" width="100%" height="100%" x="0" y="0"></use>
-			</mask>
-			<svg id="mask-comp-kbkkjc2q-svg" preserveAspectRatio="none" data-bbox="20 20 160 160" viewBox="20 20 160 160" height="200" width="200" xmlns="http://www.w3.org/2000/svg" data-type="shape">
-    <g>
-        <path d="M180 20v160H20V20h160z"></path>
-    </g>
-</svg> </defs><image xlink:href="https://static.wixstatic.com/media/819b61_7bb9c7354c0e4f95b30f6363e049b37f~mv2.png/v1/crop/x_256,y_130,w_1535,h_1406/fill/w_490,h_449,al_c,q_85,usm_0.66_1.00_0.01/sphx_glr_ch1_7_3d_visualization_003.webp" key="image" data-type="image" width="490" height="449" preserveAspectRatio="xMidYMid slice" mask="url(#mask-comp-kbkkjc2q)" data-svg-mask="mask-comp-kbkkjc2q-svg" style="width: 490px; height: 449px; object-fit: cover;"></image></svg>
-</div>
+<img src="https://static.wixstatic.com/media/819b61_7bb9c7354c0e4f95b30f6363e049b37f~mv2.png/v1/crop/x_256,y_130,w_1535,h_1406/fill/w_490,h_449,al_c,q_85,usm_0.66_1.00_0.01/sphx_glr_ch1_7_3d_visualization_003.webp" alt="seaborn ejemplo" height="400"/>
 
 <hr>
 
