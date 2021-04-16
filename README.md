@@ -209,10 +209,10 @@ plt.show()
 
 <hr>
 
-#### [Seaborn](https://seaborn.pydata.org/) <a id="seaborn"></a>
+### [Seaborn](https://seaborn.pydata.org/) <a id="seaborn"></a>
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="numpy logo" height="100"/>
 
-Seaborn se enfoca en la visualización de factores estadísticos en la información, permitiendo establecer relaciones entre parámetros. Es posible crear con ella gráficos de alta calidad sin necesidad de personalización adicional.
+Seaborn se enfoca en la visualización estadística, permitiendo establecer fácilmente relaciones entre parámetros. Es posible crear con ella gráficos de alta calidad sin necesidad de personalización adicional.
 <br>
 
 ```python
