@@ -169,17 +169,18 @@ Matplotlib permite la creación de visualizaciones estáticas (y también intera
 ```python
 import matplolib.pyplot as plt
 
-# Datos x e y
+# Datos
 x_silice = [50.2, 54.3, 60.1, 64.9, 66.2, 71.5]
 y_magnesio = [7.4, 3.7, 2.8, 1.7, 0.9, 0.5]
 
 # Creación del gráfico
-plt.plot(x_silice, y_magnesio, label='MgO', color='orange', linewidth=2)
+plt.plot(x_silice, y_magnesio, color='orange', linewidth=2)
 
 # Personalizalización
 plt.xlabel('% $SiO_{2}$')
 plt.ylabel('% $MgO$')
 plt.grid(alpha=0.4)
+plt.tight_layout()
 
 plt.show()
 ```
