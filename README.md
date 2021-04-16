@@ -33,7 +33,7 @@ En este repositorio se realiza un compilado de librerías open-source, utilidade
 ### [NumPy](https://numpy.org/) <a id="numpy"></a>
 
 <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy logo" height="100"/>
-NumPy permite el trabajo con matrices y vectores de manera rápida y eficiente. Es una parte clave de numerosas librerías dentro del ecosistema de Python, por ejemplo, encontrándose en el núcleo la librería pandas.<br>
+NumPy permite el trabajo con matrices y vectores de manera rápida y eficiente. Es una parte clave de numerosas librerías dentro del ecosistema de Python, por ejemplo, encontrándose en el núcleo la librería pandas. <br>
 
 ```python
 import numpy as np
@@ -41,11 +41,13 @@ import numpy as np
 a = np.arange(15).reshape(3, 5)
 
 a
-----------------------------
+```
+```
 array([[ 0,  1,  2,  3,  4],
        [ 5,  6,  7,  8,  9],
        [10, 11, 12, 13, 14]])
 ```
+
 
 <hr>
 
