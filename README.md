@@ -30,13 +30,13 @@ En este repositorio se realiza un compilado de librerías open-source, utilidade
 
 ### <a id="carga">Carga y manipulación de datos</a>
 
-#### [NumPy](https://numpy.org/) <a id="numpy"></a>
+### [NumPy](https://numpy.org/) <a id="numpy"></a>
 
 <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy logo" height="100"/>
 NumPy permite el trabajo con matrices y vectores de manera rápida y eficiente. Es una parte clave de numerosas otras librerías dentro del ecosistema de Python, por ejemplo, es el núcleo la librería pandas.
 <hr>
 
-#### [pandas](https://pandas.pydata.org/) <a id="pandas"></a> 
+### [pandas](https://pandas.pydata.org/) <a id="pandas"></a> 
 <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas logo" height="100"/>
 
 Pandas permite la carga, análisis y transformación de información tabular. Con pandas es posible cargar información en forma de CSV, Excel, JSON, GeoJSON entre muchas otros, la que puede ser posteriormente filtrada, clasificada y/o agregada.
