@@ -182,7 +182,7 @@ Python posee numerosas librerías para la visualización de datos. Algunas de la
 ### [Matplotlib](https://matplotlib.org/) <a id="matplotlib"></a>
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplolib logo" height="100"/>
 
-Matplotlib permite la creación de visualizaciones estáticas (y también interactivas). Posee una extensa variedad de gráficos disponibles (dispersión, barra, histogramas, entre otros) y una capacidad de personalización.
+Matplotlib permite la creación de visualizaciones estáticas (y también interactivas). Se descataca por una extensa variedad de gráficos disponibles (dispersión, barra, histogramas, entre otros) y una gran capacidad de personalización.
 <br>
 <br>
 
@@ -212,7 +212,7 @@ plt.show()
 #### [Seaborn](https://seaborn.pydata.org/) <a id="seaborn"></a>
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="numpy logo" height="100"/>
 
-Seaborn se enfoca en la visualización de factores estadísticos en la información. Además, es posible crear con ella gráficos de alta calidad sin necesidad de personalización adicional. 
+Seaborn se enfoca en la visualización de factores estadísticos en la información, permitiendo establecer relaciones entre parámetros. Es posible crear con ella gráficos de alta calidad sin necesidad de personalización adicional.
 <br>
 
 ```python
