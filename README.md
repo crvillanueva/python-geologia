@@ -46,9 +46,10 @@ import pandas as pd
 
 df = pd.read_csv('https://raw.githubusercontent.com/crvillanueva/python-geologia/main/data/terremotos.csv')
 df.head()
+
 ```
 
-> 
+<iframe src="https://raw.githubusercontent.com/crvillanueva/python-geologia/main/data/table.html" title="pandas df">
 
 <hr>
 
