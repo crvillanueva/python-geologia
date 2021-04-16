@@ -212,9 +212,25 @@ plt.show()
 #### [Seaborn](https://seaborn.pydata.org/) <a id="seaborn"></a>
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="numpy logo" height="100"/>
 
-Seaborn (basada en Matplotlib) facilita la visualización estadística mediante gráficos de gran calidad sin la necesidad de extensiva personalización. 
+Seaborn (basada en Matplotlib) facilita la visualización estadística mediante gráficos de gran calidad, sin necesidad de personalización adicional. 
 <br>
 <br>
+
+```python
+import seaborn as sns
+
+# Estilo del gráfico
+sns.set_theme(style="darkgrid")
+
+# Datos
+tips = sns.load_dataset("tips")
+
+# Gráfico
+g = sns.jointplot(x="total_bill", y="tip", data=tips,
+                  kind="reg", truncate=False,
+                  xlim=(0, 60), ylim=(0, 12),
+                  color="m", height=7)
+```
 
 <img src="https://seaborn.pydata.org/_images/regression_marginals.png" alt="seaborn ejemplo" height="400"/>
 
