@@ -1,0 +1,14 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-05-26T07:41:15.073Z,-5.8119,-75.2697,122.57,8,mww,,17,3.18,0.84,us,us60003sc0,2021-03-05T19:13:06.497Z,"78km SE of Lagunas, Peru",earthquake,7,4,0.036,75,reviewed,us,us
+2019-03-01T08:50:42.591Z,-14.7131,-70.1546,267,7,mww,,42,2.501,1.13,us,us1000j96d,2021-04-07T02:19:45.001Z,"23km NNE of Azangaro, Peru",earthquake,7.6,1.9,0.033,87,reviewed,us,us
+2019-02-22T10:17:23.770Z,-2.1862,-77.0505,145,7.5,mww,,15,2.045,1.12,us,us2000jlfv,2020-07-07T22:52:36.277Z,"111km ESE of Palora, Ecuador",earthquake,6.2,1.8,0.026,144,reviewed,us,us
+2018-08-24T09:04:08.250Z,-11.0355,-70.8284,630,7.1,mww,,12,3.77,0.99,us,us1000ggj4,2018-11-01T17:50:57.040Z,"140km WNW of Iberia, Peru",earthquake,9.1,1.9,0.055,32,reviewed,us,us
+2018-08-21T21:31:47.600Z,10.7731,-62.9019,146.82,7.3,mww,,15,1.822,1.1,us,us1000gez7,2020-07-10T15:53:30.330Z,"24km ENE of Rio Caribe, Venezuela",earthquake,7.5,3.4,0.033,88,reviewed,us,us
+2018-01-14T09:18:45.540Z,-15.7675,-74.7092,39,7.1,mww,,23,4.29,1.2,us,us2000cjfy,2021-02-27T19:54:33.140Z,"38km SSW of Acari, Peru",earthquake,7,1.8,0.032,95,reviewed,us,us
+2016-12-25T14:22:27.010Z,-43.4064,-73.9413,38,7.6,mww,,29,0.355,0.79,us,us10007mn3,2021-01-29T00:57:34.710Z,"41km SW of Puerto Quellon, Chile",earthquake,5.4,1.9,,,reviewed,us,us
+2016-08-19T07:32:22.710Z,-55.2852,-31.8766,10,7.4,mww,,18,2.852,0.79,us,us10006exl,2018-10-17T21:50:08.416Z,"South Georgia Island region",earthquake,8.4,1.7,,,reviewed,us,us
+2016-04-16T23:58:36.980Z,0.3819,-79.9218,20.59,7.8,mww,,15,1.44,0.94,us,us20005j32,2020-08-15T05:15:07.767Z,"27km SSE of Muisne, Ecuador",earthquake,5.7,3.2,,,reviewed,us,us
+2015-11-24T22:50:54.370Z,-10.0598,-71.0184,620.56,7.6,mww,,10,2.852,1,us,us100040x6,2020-07-07T22:44:43.869Z,"211km S of Tarauaca, Brazil",earthquake,8.5,3.1,,,reviewed,us,us
+2015-11-24T22:45:38.880Z,-10.5372,-70.9437,606.21,7.6,mww,,10,3.287,1.36,us,us100040ww,2021-03-02T17:50:34.662Z,"173km WNW of Iberia, Peru",earthquake,8.5,3.2,,,reviewed,us,us
+2015-09-16T23:18:41.850Z,-31.5622,-71.4262,28.41,7,mww,,13,0.903,0.93,us,us20003k7w,2021-04-07T02:41:09.403Z,"25km WNW of Illapel, Chile",earthquake,4.3,3,,,reviewed,us,us
+2015-09-16T22:54:32.860Z,-31.5729,-71.6744,22.44,8.3,mww,,19,0.684,1.02,us,us20003k7a,2021-03-02T17:46:56.822Z,"48km W of Illapel, Chile",earthquake,4.7,3.2,,,reviewed,us,us
