@@ -196,7 +196,7 @@ y_magnesio = [7.4, 3.7, 2.8, 1.7, 0.9, 0.5]
 # Creación del gráfico
 plt.plot(x_silice, y_magnesio, color='orange', linewidth=2)
 
-# Personalizalización
+# Personalización
 plt.xlabel('% $SiO_{2}$')
 plt.ylabel('% $MgO$')
 plt.grid(alpha=0.4)
