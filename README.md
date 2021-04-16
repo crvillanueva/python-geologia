@@ -184,7 +184,7 @@ plt.grid(alpha=0.4)
 plt.show()
 ```
 
-<img src="https://raw.githubusercontent.com/crvillanueva/python-geologia/main/img/matplotlib_ex.svg" alt="matplotlib ejemplo" height="400"/>
+<img src="https://raw.githubusercontent.com/crvillanueva/python-geologia/main/img/matplob_ex.svg" alt="matplotlib ejemplo" height="400"/>
 
 <hr>
 
