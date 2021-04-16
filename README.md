@@ -212,8 +212,7 @@ plt.show()
 #### [Seaborn](https://seaborn.pydata.org/) <a id="seaborn"></a>
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="numpy logo" height="100"/>
 
-Seaborn (basada en Matplotlib) facilita la visualización estadística mediante gráficos de gran calidad, sin necesidad de personalización adicional. 
-<br>
+Seaborn se enfoca en la visualización de factores estadísticos en la información. Además, es posible crear con ella gráficos de alta calidad sin necesidad de personalización adicional. 
 <br>
 
 ```python
