@@ -41,6 +41,8 @@ NumPy permite el trabajo con matrices y vectores de manera rápida y eficiente. 
 
 Pandas permite la carga, análisis y transformación de información tabular. Con pandas es posible cargar información en forma de CSV, Excel, JSON, GeoJSON entre muchas otros, la que puede ser posteriormente filtrada, clasificada y/o agregada.
 
+<br>
+
 ```python
 import pandas as pd
 
