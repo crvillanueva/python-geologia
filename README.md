@@ -36,6 +36,7 @@ En este repositorio se realiza un compilado de librerías open-source, utilidade
 NumPy permite el trabajo con matrices y vectores de manera rápida y eficiente. Es una parte clave de numerosas librerías dentro del ecosistema de Python, por ejemplo, encontrándose en el núcleo la librería pandas. 
 <br>
 
+
 ```python
 import numpy as np
 
@@ -54,7 +55,9 @@ array([[ 0,  1,  2,  3,  4],
 ### [pandas](https://pandas.pydata.org/) <a id="pandas"></a> 
 <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas logo" height="100"/>
 
-Pandas permite la carga, análisis y transformación de información tabular. Con pandas es posible cargar información en forma de CSV, Excel, JSON, GeoJSON entre muchas otros, la que puede ser posteriormente filtrada, clasificada y/o agregada. <br>
+Pandas permite la carga, análisis y transformación de información tabular. Con pandas es posible cargar información en forma de CSV, Excel, JSON, GeoJSON entre muchas otros, la que puede ser posteriormente filtrada, clasificada y/o agregada. 
+<br>
+
 
 ##### Ejemplo de carga de [archivo csv](https://raw.githubusercontent.com/crvillanueva/python-geologia/main/data/terremotos.csv)
 ```python
@@ -180,6 +183,8 @@ Python posee numerosas librerías para la visualización de datos. Algunas de la
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplolib logo" height="100"/>
 
 Matplotlib permite la creación de visualizaciones estáticas (y también interactivas) con una extensa variadad de gráficos disponibles (dispersión, barra, pie, histogramas, entre otros) y con gran capacidad de personalización.
+<br>
+
 
 ```python
 import matplolib.pyplot as plt
