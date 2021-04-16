@@ -154,56 +154,6 @@ df.head()
       <td>us</td>
       <td>us</td>
     </tr>
-    <tr>
-      <th>3</th>
-      <td>2018-08-24T09:04:08.250Z</td>
-      <td>-11.0355</td>
-      <td>-70.8284</td>
-      <td>630.00</td>
-      <td>7.1</td>
-      <td>mww</td>
-      <td>NaN</td>
-      <td>12</td>
-      <td>3.770</td>
-      <td>0.99</td>
-      <td>us</td>
-      <td>us1000ggj4</td>
-      <td>2018-11-01T17:50:57.040Z</td>
-      <td>140km WNW of Iberia, Peru</td>
-      <td>earthquake</td>
-      <td>9.1</td>
-      <td>1.9</td>
-      <td>0.055</td>
-      <td>32.0</td>
-      <td>reviewed</td>
-      <td>us</td>
-      <td>us</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>2018-08-21T21:31:47.600Z</td>
-      <td>10.7731</td>
-      <td>-62.9019</td>
-      <td>146.82</td>
-      <td>7.3</td>
-      <td>mww</td>
-      <td>NaN</td>
-      <td>15</td>
-      <td>1.822</td>
-      <td>1.10</td>
-      <td>us</td>
-      <td>us1000gez7</td>
-      <td>2020-07-10T15:53:30.330Z</td>
-      <td>24km ENE of Rio Caribe, Venezuela</td>
-      <td>earthquake</td>
-      <td>7.5</td>
-      <td>3.4</td>
-      <td>0.033</td>
-      <td>88.0</td>
-      <td>reviewed</td>
-      <td>us</td>
-      <td>us</td>
-    </tr>
   </tbody>
 </table>
 
