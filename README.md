@@ -182,7 +182,7 @@ Python posee numerosas librerías para la visualización de datos. Algunas de la
 ### [Matplotlib](https://matplotlib.org/) <a id="matplotlib"></a>
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplolib logo" height="100"/>
 
-Matplotlib permite la creación de visualizaciones estáticas (y también interactivas) con una extensa variadad de gráficos disponibles (dispersión, barra, pie, histogramas, entre otros) y con gran capacidad de personalización.
+Matplotlib permite la creación de visualizaciones estáticas (y también interactivas). Posee una extensa variedad de gráficos disponibles (dispersión, barra, histogramas, entre otros) y una capacidad de personalización.
 <br>
 <br>
 
