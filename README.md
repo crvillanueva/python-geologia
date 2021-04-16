@@ -43,7 +43,7 @@ Pandas permite la carga, análisis y transformación de información tabular. Co
 
 <br>
 
-##### Ejemplo de carga de archivo csv
+##### Ejemplo de carga de [archivo csv](https://raw.githubusercontent.com/crvillanueva/python-geologia/main/data/terremotos.csv)
 ```python
 
 import pandas as pd 
