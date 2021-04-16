@@ -51,6 +51,8 @@ Python posee numerosas librerías para la visualización de datos. Algunas de la
 
 Matplotlib permite la creación de visualizaciones estáticas (y también interactivas) con una extensa variadad de gráficos disponibles (dispersión, barra, pie, histogramas, entre otros) y con gran capacidad de personalización.
 
+<img src="https://matplotlib.org/stable/_images/sphx_glr_scatter_demo2_001.png" alt="matplotlib ejemplo" height="400"/>
+
 <hr>
 
 ##### [Seaborn](https://seaborn.pydata.org/) <a id="seaborn"></a>
@@ -58,12 +60,16 @@ Matplotlib permite la creación de visualizaciones estáticas (y también intera
 
 Seaborn (basada en Matplotlib) facilita la visualización estadística mediante gráficos de gran calidad sin la necesidad de extensiva personalización. 
 
+<img src="https://seaborn.pydata.org/_images/regression_marginals.png" alt="seaborn ejemplo" height="400"/>
+
 <hr>
 
 #### [Plotly](https://plotly.com/python/) <a id="plotly"></a>
 <img src="https://plotly.com/all_static/images/plotly_graphing_libraries_1.png" alt="plotly logo" height="100"/>
 
 Plotly es una libreria de gráficos interactivos que se destaca por su extensa variedad de gráficos (más de 40), la calidad nativa de sus visualizaciones, y la compatibilidad con el navedor.
+
+<iframe src="url" title="plotly ejemplo">
 
 <hr>
 
@@ -115,7 +121,7 @@ Flopy permite la creación, ejecución y post-proceso de modelos basados en MODF
 
 ## Cursos y tutoriales <a id="cursos"><a/>
 
-* [Introducción a Data Analytics en Geociencias con Python (DAP) | Nube minera](https://nubeminera.cl/course/dap/) Curso gratuito e introductorio donde se enseña a realizar un análisis exploratorio de datos provenientes de muestras de sondajes a través de Python.
+* [Nube minera | Introducción a Data Analytics en Geociencias con Python (DAP)](https://nubeminera.cl/course/dap/) Curso gratuito e introductorio donde se enseña a realizar un análisis exploratorio de datos provenientes de muestras de sondajes a través de Python.
 
 ## Libros, blogs y canales de Youtube<a id="materiales"></a>
 ### Libros
