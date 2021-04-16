@@ -214,6 +214,7 @@ plt.show()
 
 Seaborn se enfoca en la visualización estadística, permitiendo establecer fácilmente relaciones entre parámetros. Es posible crear con ella gráficos de alta calidad sin necesidad de personalización adicional.
 <br>
+<br>
 
 ```python
 import seaborn as sns
