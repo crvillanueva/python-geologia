@@ -177,7 +177,7 @@ datos.head(3) # Mostrar solo las primeras 3 entradas
 
 ### <a id="viz">Visualización</a>
 
-Python posee numerosas librerías para la visualización de datos. Algunas de las librerías más populares son:
+Python posee numerosas librerías para la visualización de datos. Algunas de las más populares son:
 
 ### [Matplotlib](https://matplotlib.org/) <a id="matplotlib"></a>
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplolib logo" height="100"/>
