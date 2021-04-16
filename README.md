@@ -40,6 +40,16 @@ NumPy permite el trabajo con matrices y vectores de manera rápida y eficiente. 
 <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas logo" height="100"/>
 
 Pandas permite la carga, análisis y transformación de información tabular. Con pandas es posible cargar información en forma de CSV, Excel, JSON, GeoJSON entre muchas otros, la que puede ser posteriormente filtrada, clasificada y/o agregada.
+
+```python
+import pandas as pd
+
+df = pd.read_csv('https://raw.githubusercontent.com/crvillanueva/python-geologia/main/data/terremotos.csv')
+df.head()
+```
+
+> 
+
 <hr>
 
 ### <a id="viz">Visualización</a>
