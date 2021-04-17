@@ -300,7 +300,7 @@ Flopy permite la creación, ejecución y post-proceso de modelos basados en MODF
 ## Libros, blogs y canales de Youtube<a id="materiales"></a>
 ### Libros
 
-![Libros gratuitos generales de Python](https://github.com/pamoroso/free-python-books)
+📚 [Libros gratuitos generales de Python](https://github.com/pamoroso/free-python-books)
 
 ### Blogs y canales de youtube
 * [Hatari Labs](https://www.hatarilabs.com/) Página y canal de youtube con blogs y videotutoriales respecto a SIG, modelamiento y otros. Especial enfoque en la hidrogeologia.
