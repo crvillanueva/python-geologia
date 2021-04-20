@@ -42,6 +42,7 @@ NumPy permite el trabajo con matrices y vectores de manera rápida y eficiente. 
 import numpy as np
 
 a = np.arange(15).reshape(3, 5)
+
 print(a)
 ```
 ```
