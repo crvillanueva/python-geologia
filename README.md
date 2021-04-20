@@ -28,7 +28,6 @@ En este repositorio se realiza un compilado de librerías open-source, utilidade
 * [Utilidades](#utilidades)
 
 ## <a id="lib">Librerías</a>
-\*El titulo de cada librería lleva a la página oficial correspondiente.
 
 ## <a id="carga">Carga y manipulación de datos</a>
 
