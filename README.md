@@ -183,7 +183,7 @@ datos.head(3) # Mostrar solo las primeras 3 entradas
 <img src="https://github.com/GeostatsGuy/GeostatsPy/raw/master/geostatspy_logo.png?raw=true" alt="geostat logo" height="100"/>
 
 Librería con numerosas funciones y herramientas aplicadas a la geoestadística.
-
+<hr>
 
 ### <a id="viz">Visualización</a>
 
