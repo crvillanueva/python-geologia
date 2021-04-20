@@ -7,12 +7,15 @@ En este repositorio se realiza un compilado de librerías open-source, utilidade
 * [Librerías](#lib)
   * [Carga y manipulación de datos](#carga)
     * [NumPy](#numpy) 
-    * [pandas](#pandas) 
+    * [pandas](#pandas)
+  * [Estadística](#estadistica)
+    * [GeostatsPy](#geostat)
   * [Visualización de datos](#viz)
     * [Matplotlib](#matplotlib)
     * [Seaborn](#seaborn)
     * [Plotly](#plotly)
     * [Bokeh](#bokeh)
+    * GeoStatPy
   * [Mapas e información geoespacial](#mapas)
     * [geopandas](#geopandas)
     * [cartopy](#cartopy)
@@ -174,6 +177,14 @@ datos.head(3) # Mostrar solo las primeras 3 entradas
 </table>
 
 <hr>
+
+### <a id="estadistica">Estadística</a>
+
+### [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy)
+<img src="https://github.com/GeostatsGuy/GeostatsPy/raw/master/geostatspy_logo.png?raw=true" alt="geostat logo" height="100"/>
+
+Librería con numerosas funciones y herramientas aplicadas a la geoestadística.
+
 
 ### <a id="viz">Visualización</a>
 
