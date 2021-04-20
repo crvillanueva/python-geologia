@@ -30,7 +30,7 @@ En este repositorio se realiza un compilado de librerías open-source, utilidade
 ## <a id="lib">Librerías</a>
 \*El titulo de cada librería lleva a la página oficial correspondiente.
 
-### <a id="carga">Carga y manipulación de datos</a>
+## <a id="carga">Carga y manipulación de datos</a>
 
 ### [NumPy](https://numpy.org/) <a id="numpy"></a>
 
@@ -176,7 +176,7 @@ datos.head(3) # Mostrar solo las primeras 3 entradas
 
 <hr>
 
-### <a id="estadistica">Estadística</a>
+## <a id="estadistica">Estadística</a>
 
 ### [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy) <a id="geostats"></a>
 <img src="https://github.com/GeostatsGuy/GeostatsPy/raw/master/geostatspy_logo.png?raw=true" alt="geostat logo" height="100"/>
@@ -184,7 +184,7 @@ datos.head(3) # Mostrar solo las primeras 3 entradas
 Librería con numerosas funciones y herramientas aplicadas a la geoestadística.
 <hr>
 
-### <a id="viz">Visualización</a>
+## <a id="viz">Visualización</a>
 
 Python posee numerosas librerías para la visualización de datos. Algunas de las más populares son:
 
@@ -261,7 +261,7 @@ Otra alternativa para la creación de gráficos interactivos en Python.
 
 <hr>
 
-### <a id="mapas">Mapas e información geoespacial</a>
+## <a id="mapas">Mapas e información geoespacial</a>
 
 ### [geopandas](https://pandas.pydata.org/) <a id="geopandas"></a>
 <img src="https://geopandas.org/_static/geopandas_logo_web.svg" alt="geopandas logo" height="100"/>
