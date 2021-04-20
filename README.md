@@ -286,7 +286,7 @@ Basada en la librería de javascript ```leaflet.js``` utilizada en la creación 
 
 ### [Plotly](#plotly)
 
-### Modelamiento geológico <a id="modelamiento"></a>
+## Modelamiento geológico <a id="modelamiento"></a>
 
 ### [gempy](https://www.gempy.org/)<a id="gempy"></a>
 <img src="https://static.wixstatic.com/media/819b61_005a11348d95480981d0a188be0801b2~mv2.png/v1/fill/w_199,h_71,al_c,q_85,usm_0.66_1.00_0.01/GemPy_logo_on_transp.webp" alt="gempy logo" height="100"/>
