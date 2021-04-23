@@ -313,6 +313,7 @@ Flopy permite la creación, ejecución y post-proceso de modelos basados en MODF
 
 ### Blogs y canales de youtube
 * [Hatari Labs](https://www.hatarilabs.com/) Página y canal de youtube con blogs y videotutoriales respecto a SIG, modelamiento y otros. Especial enfoque en la hidrogeologia.
+* [cartografo.cl](https://cartografo.cl/) Noticias y videos asociadas a SIG.
 
 ## Utilidades <a id="utilidades"></a>
 
