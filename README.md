@@ -250,8 +250,6 @@ g = sns.jointplot(x="total_bill", y="tip", data=tips,
 
 Plotly es una libreria de gráficos interactivos que se destaca por su extensa variedad de gráficos (más de 40), la calidad nativa de sus visualizaciones, y la compatibilidad con el navedor.
 
-<iframe src="url" title="plotly ejemplo">
-
 <hr>
 
 ### <a id="bokeh"></a>[Bokeh](https://bokeh.org/) <a id="bokeh"></a>
