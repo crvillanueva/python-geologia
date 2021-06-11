@@ -261,7 +261,7 @@ Otra alternativa para la creación de gráficos interactivos en Python.
 
 ## <a id="mapas">Mapas e información geoespacial</a>
 
-### [geopandas](https://pandas.pydata.org/) <a id="geopandas"></a>
+### [geopandas](https://geopandas.org/) <a id="geopandas"></a>
 <img src="https://geopandas.org/_static/geopandas_logo_web.svg" alt="geopandas logo" height="100"/>
 
 Extiende la funcionalidad de pandas para permitir la manipulación de datos geoespaciales. Permite la carga de formatos GIS comunes (.shp, .geojson, .gpk, entre otros) y el trabajo y reproyección de sistemas de referencia.
